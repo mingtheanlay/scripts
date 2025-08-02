@@ -160,7 +160,7 @@ process_single_file() {
 
     # Build cwebp arguments
     local webp_args="-m $method"
-    
+
     if [ "$lossless" = "true" ]; then
         webp_args="$webp_args -lossless"
     else
