@@ -1,4 +1,4 @@
-# Image Utility Scripts
+# Utility Scripts
 
 Simple shell scripts for image processing and WebP conversion.
 
